@@ -6,7 +6,7 @@ Customers can access the tool at: https://access.redhat.com/solutions/2336341
 
 ### Supported Features
 
-The following items are gathered and places into the sosreport.
+The following items are gathered and placed into the sosreport.
 
 * Active running processes
 * Installed services and their status (running or stopped)
